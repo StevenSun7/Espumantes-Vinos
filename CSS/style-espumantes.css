@@ -193,7 +193,7 @@ body {
     width: 47vw;
     height: 27vw;
     border-radius: 10px;
-    background-image: url(../Parral.jpg);
+    background-image: url(/Img/Parral.jpg);
     background-size: 145%;
     animation: Trapiche-parral 10s infinite linear alternate;
 }
@@ -223,7 +223,7 @@ body {
     width: 47vw;
     height: 27vw;
     border-radius: 10px;
-    background-image: url(../luigi-bosca-home-1440x900.png);
+    background-image: url(/Img/Home\ Luigi\ Bosca.png);
     background-size: 145%;
     animation: Bosca-viñedo 10s infinite linear alternate;
 }      
@@ -296,7 +296,7 @@ body {
     width: 47vw;
     height: 27vw;
     border-radius: 10px;
-    background-image: url(../Cava\ Botellas.jpg);
+    background-image: url(/Img/Cava\ Botellas.jpg);
     background-size: 145%;
     animation: Chandon-Bodega 10s infinite linear alternate;
 }
