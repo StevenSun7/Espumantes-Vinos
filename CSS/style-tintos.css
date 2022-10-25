@@ -253,7 +253,7 @@ header label {
     width: 50vw;
     height: 30vw;
     border-radius: 10px;
-    background-image: url(/Img/Viñedos\ II.jpg);
+    background-image: url(/img/Viñedos\ II.jpg);
     background-size: 145%;
     animation: san-juan-vinedos 10s infinite linear alternate;
     margin-bottom: 45px;
@@ -306,7 +306,7 @@ header label {
     width: 50vw;
     height: 30vw;
     border-radius: 10px;
-    background-image: url(/Img/Viñedos\ Mendoza.jpg);
+    background-image: url(/img/Viñedos\ Mendoza.jpg);
     background-size: 145%;
     animation: MendozaViñedos 10s infinite linear alternate;
 }
@@ -410,7 +410,7 @@ header label {
     width: 50vw;
     height: 30vw;
     border-radius: 10px;
-    background-image: url(/Img/Viñedos\ Nevados.jpg);
+    background-image: url(/img/Viñedos\ Nevados.jpg);
     background-size: 145%;
     animation: bodegasanhuberto 10s infinite linear alternate;
 }
