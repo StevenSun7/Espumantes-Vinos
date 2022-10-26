@@ -87,7 +87,7 @@ header label {
     display: flex;
     padding-top: 4rem;
     width: 100%;
-    background-image: url(/videos/Burbujas.mov);
+    background-image: url(/videos/burbujas.mp4);
     border-bottom: solid 1px #a7976d;
     justify-content: center;
 }
